@@ -23,10 +23,9 @@ The following **optional** features are implemented:
 * [ ] More Layout Improvements
 
 ## Video Walkthrough
+![Kapture 2025-09-09 at 09 58 46](https://github.com/user-attachments/assets/699d53c5-e508-4ec1-adb1-52532727212a)
 
 Here's a walkthrough of implemented features:
-
-
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
